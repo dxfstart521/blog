@@ -13,6 +13,8 @@ blog 日常的总结
 
 <a href="https://github.com/dxfstart521/blog/issues/6">高阶函数，高阶函数的应用场景</a>
 
+<a href="https://github.com/dxfstart521/blog/issues/7">throttle函数节流和debounce防抖 区别</a>
+
 ### webpack
 
 <a href="https://github.com/dxfstart521/blog/issues/4">webpack打包优化 </a>
